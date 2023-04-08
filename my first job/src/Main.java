@@ -6,6 +6,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.println("Natasha");
         System.out.println("wursti");
+        System.out.println("koorosh");
 
 
         // Press ⌃R or click the green arrow button in the gutter to run the code.
